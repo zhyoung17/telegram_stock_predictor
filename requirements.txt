@@ -1,0 +1,7 @@
+pandas
+python-dotenv
+python-telegram-bot
+pillow
+numpy
+statsmodels
+yfinance
